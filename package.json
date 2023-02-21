@@ -1,7 +1,7 @@
 {
 	"name": "mizkit",
 	"version": "0.0.1",
-	"description": "Minimal sveltekit starter template. Based on: https://github.com/fractalhq/mizkit",
+	"description": "Minimal sveltekit starter template. Based on: https://github.com/mizkit/mizkit",
 	"type": "module",
 	"scripts": {
 		"build": "vite build",

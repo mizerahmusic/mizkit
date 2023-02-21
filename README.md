@@ -1,4 +1,4 @@
-# [mizkit](https://github.com/fractalhq/mizkit)
+# [mizkit](https://github.com/mizkit/mizkit)
 
 Minimal Sveltekit Starter Template.
 
@@ -7,7 +7,7 @@ Minimal Sveltekit Starter Template.
 ### download
 
 ```bash
-npx degit fractalhq/mizkit app
+npx degit mizerahmusic/mizkit app
 ```
 
 ### launch
@@ -28,14 +28,12 @@ npm run dev
 
 -   [Vercel](https://vercel.com)
 -   [Typescript](https://www.typescriptlang.org)
--   [MDSvex](https://mdsvex.com)
--   [Stylelint](https://github.com/stylelint/stylelint)
 -   [SCSS/SASS](https://sass-lang.com)
 -   [PostCSS](https://postcss.org)
     -   [CSSNano](https://github.com/cssnano/cssnano)
     -   [Autoprefixer](https://github.com/postcss/autoprefixer)
--   [Dark Theme](https://github.com/fractalhq/#ThemeToggle)
+-   [Dark Theme](https://github.com/mizkit/#ThemeToggle)
 -   [Fractils](https://github.com/fractalhq/fractils)
 -   [Greset](https://github.com/ghostdevv/greset)
--   [Local](https://github.com/FractalHQ/mizkit/tree/main/static/fonts) Font [Setup](https://github.com/FractalHQ/mizkit/blob/main/src/styles/app.scss#L4-L24)
+-   [Local](https://github.com/mizkit/mizkit/tree/main/static/fonts) Font [Setup](https://github.com/mizkit/mizkit/blob/main/src/styles/app.scss#L4-L24)
 -   PWA / Service Worker
